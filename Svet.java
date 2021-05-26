@@ -80,7 +80,7 @@ public class Svet {
 					popis+=".";
 					l.getItems().add(new Item(s,popis));
 				}
-				lokality[i][j]=l;
+				
 				
 			}
 		}
